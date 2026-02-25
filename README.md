@@ -17,6 +17,7 @@ This project is designed to be beginner-friendly: you can clone it, install depe
 ### Demo flow (what the app does)
 
 - **Open the app** in your browser.
+- **Visit** https://notes-app-qmgo.onrender.com/
 - **Create a new note** with a title and content.
 - **See your notes listed** on the page.
 - **Edit or delete** any existing note.
